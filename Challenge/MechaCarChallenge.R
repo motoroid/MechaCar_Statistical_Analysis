@@ -1,4 +1,6 @@
 library(dplyr)
+#read csv into dataframe
+
 car_table<-read.csv('MechaCar_mpg.csv')
 
 #running all at the same time
