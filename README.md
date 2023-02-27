@@ -17,6 +17,17 @@
 ![t_test_lot1_vs_all](https://user-images.githubusercontent.com/115171651/221710910-01765211-008e-42ba-8376-6dfabb09a67d.png)
 ![t_test_lot2_vs_all](https://user-images.githubusercontent.com/115171651/221710921-f1466441-b0c5-4162-aab5-e632a010003b.png)
 ![t_test_lot3_vs_all](https://user-images.githubusercontent.com/115171651/221710931-350b9fc2-b6d5-4268-b033-37efef33c371.png)
-
 #### All the above t tests have a p value greater than 0.05 which means we do not have sufficient evidence to reject the null hypothesis and therefore must say that all the means are statistically similar.  This makes some sense in that they are all subsets from the same dataset.  
+## Study Design: MechaCar vs Competition
 
+#### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+
+In your description, address the following questions:
+
+What metric or metrics are you going to test?
+
+What is the null hypothesis or alternative hypothesis?
+
+What statistical test would you use to test the hypothesis? And why?
+
+What data is needed to run the statistical test?
