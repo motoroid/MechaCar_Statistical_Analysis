@@ -19,15 +19,8 @@
 ![t_test_lot3_vs_all](https://user-images.githubusercontent.com/115171651/221710931-350b9fc2-b6d5-4268-b033-37efef33c371.png)
 #### All the above t tests have a p value greater than 0.05 which means we do not have sufficient evidence to reject the null hypothesis and therefore must say that all the means are statistically similar.  This makes some sense in that they are all subsets from the same dataset.  
 ## Study Design: MechaCar vs Competition
+#### The study I would conduct would measure the safety of a car specifically it's ability to brake.  As speed is the number 1 cause of death in accidents, the distance it takes the car to brake would be very important to consumers.  The null and alternative hypothesis would be as follows:
+#### a.  The null hypothesis is that the Mechacar braking distance is not significantly better than 3 different competitor cars of the same class.  
+#### b.  The alternative hypothesis is that the Mechacar braking distance is significantly better than 3 different competitor cars of the same class.  
+#### This study is more simple than the one in the challenge in that this isn't determing the cause of the braking distance such as weight, brake type, etc.  This is just a linear regression and t.test to show if the means stopping distance of the Mechacar is or is not significantly better.  This would mean that either 0 or <0 would confirm the null hypothesis.  
 
-#### Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-In your description, address the following questions:
-
-What metric or metrics are you going to test?
-
-What is the null hypothesis or alternative hypothesis?
-
-What statistical test would you use to test the hypothesis? And why?
-
-What data is needed to run the statistical test?
