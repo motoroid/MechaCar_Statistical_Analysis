@@ -23,4 +23,5 @@
 #### a.  The null hypothesis is that the Mechacar braking distance is not significantly better than 3 different competitor cars of the same class.  
 #### b.  The alternative hypothesis is that the Mechacar braking distance is significantly better than 3 different competitor cars of the same class.  
 #### This study is more simple than the one in the challenge in that this isn't determing the cause of the braking distance such as weight, brake type, etc.  This is just a linear regression and t.test to show if the means stopping distance of the Mechacar is or is not significantly better.  This would mean that either 0 or <0 would confirm the null hypothesis.  
+#### One way to make the data more telling is to take the stopping distances for differnt miles per hour for all 4 cars.  
 
